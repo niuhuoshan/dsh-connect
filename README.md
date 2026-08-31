@@ -24,7 +24,7 @@
 在 DSH Web profile 中执行：
 
 ```bash
-dsh plugin --profile web add dsh-connect
+dsh plugin --profile web add @niuhuoshan/dsh-connect
 ```
 
 安装后重启 DSH，在 **设置 -> DSH连接器** 中可以看到插件入口。入口图标使用连接图标，页面包含 **数据库** 和 **HTTP API** 两个 tab。

@@ -1,9 +1,31 @@
 {
-  "name": "dsh-connect",
+  "name": "@niuhuoshan/dsh-connect",
   "version": "0.1.0",
-  "description": "Data source metadata discovery and configured HTTP API tools for DeepSeek Harness",
+  "description": "DeepSeek Harness plugin for database metadata discovery, AI semantic modeling, read-only SQL, and fixed HTTP API tools",
   "type": "module",
+  "author": "niuhuoshan",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niuhuoshan/dsh-connect.git"
+  },
+  "homepage": "https://github.com/niuhuoshan/dsh-connect#readme",
+  "bugs": {
+    "url": "https://github.com/niuhuoshan/dsh-connect/issues"
+  },
+  "keywords": [
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "cordis",
+    "database",
+    "metadata",
+    "http-api",
+    "agent-tools"
+  ],
   "packageManager": "pnpm@11.7.0",
   "engines": {
     "node": "^22.19.0 || >=24.0.0"

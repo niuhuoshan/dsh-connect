@@ -1,7 +1,7 @@
 {
   "name": "@niuhuoshan/dsh-connect",
   "version": "0.1.0",
-  "description": "DeepSeek Harness plugin for database metadata discovery, AI semantic modeling, read-only SQL, and fixed HTTP API tools",
+  "description": "DeepSeek Harness 数据源连接插件，支持数据库元数据发现、AI 语义建模、只读 SQL 查询和固定 HTTP API 调用",
   "type": "module",
   "author": "niuhuoshan",
   "license": "MIT",
